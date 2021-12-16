@@ -3,7 +3,7 @@
 </p>
 
 # Matheus Miranda
-<sub>Um Engenheiro de Produção estudando *Data Science*</sub>
+<sub>Um Engenheiro de Produção de olho em *Data Science*</sub>
 
 Como um Engenheiro de Produção eu combino habilidades analíticas, capacidade de trabalhar em equipe e atenção aos detalhes. Tendo atuado nos últimos anos com *Production Planning* desenvolvi minha capacidade de solução de problemas. 
 
