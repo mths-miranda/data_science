@@ -5,7 +5,7 @@
 </p>
 
 # Matheus Miranda
-<sub>*A Production Engineer" with Dev Skills</sub>
+<sub>*A Production Engineer* with Dev Skills</sub>
 
 Como um Engenheiro de Produção eu combino habilidades analíticas, capacidade de trabalhar em equipe e atenção aos detalhes. Tendo atuado nos últimos anos com *Production Planning* desenvolvi minha capacidade de solução de problemas. 
 
