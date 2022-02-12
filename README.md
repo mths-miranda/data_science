@@ -12,12 +12,15 @@ Como um Engenheiro de Produção eu combino habilidades analíticas, capacidade 
 Sempre adotei em minhas rotinas (que, diga-se de passagem, prezo muito por rotinas) o pensamento <i>"Work smarter, not harder"</i>. Desenvolver as habilidades em <i>data science</i>, associando a outras características, é o meu foco para me tornar um profissional criativo e mais completo.
 
 
-**Background in:** Production Engineering, VBA. 
+<i><b>Background in:</i></b> Production Engineering, VBA. 
 
-**In Progress:** Python. 
+<i><b>In Progress:</i></b> Python. 
 
 <b>Links:</b>
 * <a href="https://www.linkedin.com/in/engenheiromatheusmiranda/" target="_blank">LinkedIn</a>
+* <a href="https://medium.com/@matheus_miranda" target="_blank">Medium</a>
+* <a href="https://www.instagram.com/matheusmiranda.ofc/" target="_blank">Instagram</a>
+ 
  
 
 <b>Projetos</b>
