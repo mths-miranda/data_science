@@ -7,16 +7,23 @@
 # Matheus Miranda
 <sub>*A Production Engineer* with Dev Skills</sub>
 
-Como um Engenheiro de Produção eu combino habilidades analíticas, capacidade de trabalhar em equipe e atenção aos detalhes. Tendo atuado nos últimos anos com *Production Planning* desenvolvi minha capacidade de solução de problemas. 
+Como um Engenheiro de Produção eu combino habilidades analíticas, capacidade de trabalhar em equipe e atenção aos detalhes. Tendo atuado nos últimos anos com *Production Planning* desenvolvi minha capacidade de modelar e buscar a solução de problemas, seja dos processos ou arquitetar ferramentas para otimizar as atividades. 
+
+Sempre adotei em minhas rotinas (que, diga-se de passagem, prezo muito por rotinas) o pensamento <i>"Work smarter, not harder"</i>. Desenvolver as habilidades em <i>data science</i>, associando a outras características, é o meu foco para me tornar um profissional criativo e mais completo.
 
 
 **Background in:** Production Engineering, VBA. 
 
 **In Progress:** Python. 
 
-**Links:**
+<b>Links:</b>
 * <a href="https://www.linkedin.com/in/engenheiromatheusmiranda/" target="_blank">LinkedIn</a>
+ 
 
+<b>Projetos</b>
+
+Conheça os projetos que desenvolvi:
+* Análise Exploratória do Aribnb da cidade de Paris, França: <a href="https://bit.ly/3Bg7XIE" target="_blank">https://bit.ly/3Bg7XIE</a> 
 
 ---
 
