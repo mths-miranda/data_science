@@ -9,7 +9,7 @@
 
 Como um Engenheiro de Produção eu combino habilidades analíticas, capacidade de trabalhar em equipe e atenção aos detalhes. Tendo atuado nos últimos anos com *Production Planning* desenvolvi minha capacidade de modelar e buscar a solução de problemas, seja dos processos ou arquitetar ferramentas para otimizar as atividades. 
 
-Sempre adotei em minhas rotinas (que, diga-se de passagem, prezo muito por rotinas) o pensamento <i>"Work smarter, not harder"</i>. Desenvolver as habilidades em <i>data science</i>, associando a outras características, é o meu foco para me tornar um profissional criativo e mais completo.
+Sempre adotei em minhas rotinas (que, diga-se de passagem, prezo muito por rotinas...) o pensamento <i>"Work smarter, not harder"</i>. Desenvolver as habilidades em <i>data science</i>, associando a outras características, é o meu foco para me tornar um profissional criativo e mais completo.
 
 
 <i><b>Background in:</i></b> Production Engineering, VBA. 
@@ -26,7 +26,7 @@ Sempre adotei em minhas rotinas (que, diga-se de passagem, prezo muito por rotin
 <b>Projetos</b>
 
 Conheça os projetos que desenvolvi:
-* Análise Exploratória do Aribnb da cidade de Paris, França: <a href="https://bit.ly/3Bg7XIE" target="_blank">https://bit.ly/3Bg7XIE</a> 
+* Análise Exploratória do Airbnb da cidade de Paris, França: <a href="https://bit.ly/3Bg7XIE" target="_blank">https://bit.ly/3Bg7XIE</a> 
 
 ---
 
