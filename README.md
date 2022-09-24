@@ -27,7 +27,7 @@ Sempre adotei em minhas rotinas (que, diga-se de passagem, prezo muito por rotin
 
 Conheça os projetos que desenvolvi:
 * Análise Exploratória do Airbnb da cidade de Paris, França: <a href="https://bit.ly/3Bg7XIE" target="_blank">https://bit.ly/3Bg7XIE</a> 
-
+* Análise Exploratória sobre a Pandemia do Covid 19 no Brasil e no Mundo: <a href="https://bit.ly/3UB8ldR" target="_blank">https://bit.ly/3UB8ldR</a> 
 ---
 
 
